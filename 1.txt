@@ -1,6 +1,6 @@
 prbly it has 10 lines, so it is the 1
-2
-3
+2 the modified line, 1st IN
+3 the modified line, 1st IN
 4
 5
 6
