@@ -1,8 +1,8 @@
 prbly it has 10 lines, so it is the 1
 2 the modified line, 1st IN
 3 the modified line, 1st IN
-4
-5
+4 the modified line, 2nd IN
+5 the modified line, 2nd IN
 6
 7
 8
